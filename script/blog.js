@@ -1,7 +1,7 @@
 const blogPostData = [
 
     {
-        image: "../images/blog/patato-group.webp",
+        image: "images/blog/patato-group.webp",
         title: "Patato Group",
         headline: "Curabitur porttitor orci eget neque accumsan venenatis. Nunc fermentum.",
         link: "Read More ➡"
