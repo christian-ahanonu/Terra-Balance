@@ -116,7 +116,7 @@ button:hover {
 }
 
 .img-tag {
-    background: url('/images/discount.png') no-repeat ;
+    background: url('https://christian-ahanonu.github.io/Terra-Balance/images/product/discount.png') no-repeat ;
     background-position: -650px 0;
     width: 100%;
     height: 500px;
@@ -196,7 +196,7 @@ button:hover {
     }
 
     .img-tag {
-        background: url('/images/discount.png') no-repeat center;
+        background: url('https://christian-ahanonu.github.io/Terra-Balance/images/product/discount.png') no-repeat center;
     }
 
 
